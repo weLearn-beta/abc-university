@@ -2,7 +2,7 @@
   "name": "react-try",
   "version": "0.1.0",
   "private": true,
-  "homepage" : "https://welearn-beta.github.io/Stanford-weLearn",
+  "homepage" : "https://welearn-beta.github.io/abc-university",
   "dependencies": {
     "@material-ui/core": "^4.9.0",
     "@material-ui/icons": "^4.5.1",
