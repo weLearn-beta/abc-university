@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/abc-university/static/css/main.d1b05096.chunk.css",
+    "main.js": "/abc-university/static/js/main.49f049a1.chunk.js",
+    "main.js.map": "/abc-university/static/js/main.49f049a1.chunk.js.map",
+    "runtime-main.js": "/abc-university/static/js/runtime-main.a50ae1d9.js",
+    "runtime-main.js.map": "/abc-university/static/js/runtime-main.a50ae1d9.js.map",
+    "static/js/2.7307a793.chunk.js": "/abc-university/static/js/2.7307a793.chunk.js",
+    "static/js/2.7307a793.chunk.js.map": "/abc-university/static/js/2.7307a793.chunk.js.map",
+    "index.html": "/abc-university/index.html",
+    "precache-manifest.c493fea531b9107ca4baf2dd9d378d0c.js": "/abc-university/precache-manifest.c493fea531b9107ca4baf2dd9d378d0c.js",
+    "service-worker.js": "/abc-university/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/abc-university/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.7307a793.chunk.js.LICENSE": "/abc-university/static/js/2.7307a793.chunk.js.LICENSE",
+    "static/media/logo.svg": "/abc-university/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a50ae1d9.js",
+    "static/js/2.7307a793.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.49f049a1.chunk.js"
+  ]
+}
