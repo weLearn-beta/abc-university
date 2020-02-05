@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a0cbc363d6d65c2b5f36f348978de1b8",
+    "revision": "b0696ffd5e1e1f113f9b478b60a800ad",
     "url": "/abc-university/index.html"
   },
   {
-    "revision": "cacf1bd1c5aa909bc351",
+    "revision": "82bc553f72755bd0c220",
     "url": "/abc-university/static/css/main.d1b05096.chunk.css"
   },
   {
-    "revision": "23b36b6a0f6cf01ce242",
-    "url": "/abc-university/static/js/2.7307a793.chunk.js"
+    "revision": "da3e15c3b39024bdae36",
+    "url": "/abc-university/static/js/2.0d4b4008.chunk.js"
   },
   {
-    "revision": "13425e2e45fee351b4139959073d7e4f",
-    "url": "/abc-university/static/js/2.7307a793.chunk.js.LICENSE"
+    "revision": "534bab9932c91930fb8f2434694a7f12",
+    "url": "/abc-university/static/js/2.0d4b4008.chunk.js.LICENSE"
   },
   {
-    "revision": "cacf1bd1c5aa909bc351",
-    "url": "/abc-university/static/js/main.49f049a1.chunk.js"
+    "revision": "82bc553f72755bd0c220",
+    "url": "/abc-university/static/js/main.96f61148.chunk.js"
   },
   {
     "revision": "45028c9812dc976c6ab9",
